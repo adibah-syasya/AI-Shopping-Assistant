@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "name": "Fit Me Foundation",
+      "brand": "Maybelline",
+      "price": 49.9,
+      "stock": 14,
+      "category": "face",
+      "shades": [
+        "Ivory 110",
+        "Natural Beige 220",
+        "Caramel 330"
+      ]
+    },
+    {
+      "id": "P002",
+      "name": "Matte Ink Lipstick",
+      "brand": "Maybelline",
+      "price": 39.9,
+      "stock": 16,
+      "category": "lips",
+      "shades": [
+        "Pioneer Red",
+        "Lover Pink",
+        "Seductress Berry"
+      ]
+    },
+    {
+      "id": "P003",
+      "name": "Sky High Mascara",
+      "brand": "Maybelline",
+      "price": 45.9,
+      "stock": 18,
+      "category": "eyes",
+      "shades": [
+        "Blackest Black",
+        "Brownish Black",
+        "Cosmic Black"
+      ]
+    },
+    {
+      "id": "P004",
+      "name": "Ruby Woo Lipstick",
+      "brand": "MAC",
+      "price": 89.9,
+      "stock": 10,
+      "category": "lips",
+      "shades": [
+        "Ruby Woo Red",
+        "Velvet Teddy Nude",
+        "Mehr Mauve"
+      ]
+    },
+    {
+      "id": "P005",
+      "name": "Studio Fix Foundation",
+      "brand": "MAC",
+      "price": 129.9,
+      "stock": 7,
+      "category": "face",
+      "shades": [
+        "NW15 Fair",
+        "NW35 Medium",
+        "NW45 Deep"
+      ]
+    },
+    {
+      "id": "P006",
+      "name": "Soft Matte Lip Cream",
+      "brand": "NYX",
+      "price": 29.9,
+      "stock": 25,
+      "category": "lips",
+      "shades": [
+        "Stockholm Nude",
+        "Antwerp Rose",
+        "Monte Carlo Red"
+      ]
+    },
+    {
+      "id": "P007",
+      "name": "Epic Ink Liner",
+      "brand": "NYX",
+      "price": 34.9,
+      "stock": 22,
+      "category": "eyes",
+      "shades": [
+        "Black",
+        "Brown",
+        "Blue"
+      ]
+    },
+    {
+      "id": "P008",
+      "name": "Pro Filter Foundation",
+      "brand": "Fenty Beauty",
+      "price": 159.9,
+      "stock": 12,
+      "category": "face",
+      "shades": [
+        "100W Fair",
+        "240W Medium",
+        "420W Deep"
+      ]
+    }
+  ]
+}

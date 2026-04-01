@@ -1,0 +1,5 @@
+.env
+shopperenv/
+__pycache__/
+*.pyc
+knowledge_base/orders.json
